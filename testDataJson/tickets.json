@@ -1,0 +1,1037 @@
+[
+    {
+        "transactionId": 51483580,
+        "amount": 150.0,
+        "stationNumber": "E12232"
+    },
+    {
+        "transactionId": 336799080,
+        "amount": 100.0,
+        "stationNumber": "E07291"
+    },
+    {
+        "transactionId": 223137510,
+        "amount": 2055.2,
+        "stationNumber": "E10044"
+    },
+    {
+        "transactionId": 73148370,
+        "amount": 700.37,
+        "stationNumber": "E08697"
+    },
+    {
+        "transactionId": 398183630,
+        "amount": 379.8,
+        "stationNumber": "E04571"
+    },
+    {
+        "transactionId": 102636900,
+        "amount": 115.0,
+        "stationNumber": "E04193"
+    },
+    {
+        "transactionId": 257858910,
+        "amount": 347.85,
+        "stationNumber": "E09279"
+    },
+    {
+        "transactionId": 925362070,
+        "amount": 239.9,
+        "stationNumber": "E09728"
+    },
+    {
+        "transactionId": 35903500,
+        "amount": 195.0,
+        "stationNumber": "E06593"
+    },
+    {
+        "transactionId": 31260410,
+        "amount": 2700.0,
+        "stationNumber": "E07318"
+    },
+    {
+        "transactionId": 57179760,
+        "amount": 875.94,
+        "stationNumber": "E05276"
+    },
+    {
+        "transactionId": 319764610,
+        "amount": 300.0,
+        "stationNumber": "E05204"
+    },
+    {
+        "transactionId": 12268390,
+        "amount": 150.0,
+        "stationNumber": "E04938"
+    },
+    {
+        "transactionId": 207982590,
+        "amount": 900.0,
+        "stationNumber": "E11194"
+    },
+    {
+        "transactionId": 92347590,
+        "amount": 600.01,
+        "stationNumber": "E09986"
+    },
+    {
+        "transactionId": 873114910,
+        "amount": 600.0,
+        "stationNumber": "E09436"
+    },
+    {
+        "transactionId": 284086500,
+        "amount": 200.0,
+        "stationNumber": "E08232"
+    },
+    {
+        "transactionId": 44140,
+        "amount": 700.0,
+        "stationNumber": "E07732"
+    },
+    {
+        "transactionId": 51483590,
+        "amount": 100.0,
+        "stationNumber": "E12232"
+    },
+    {
+        "transactionId": 300866170,
+        "amount": 100.0,
+        "stationNumber": "E07522"
+    },
+    {
+        "transactionId": 228457680,
+        "amount": 200.0,
+        "stationNumber": "E05008"
+    },
+    {
+        "transactionId": 220447730,
+        "amount": 963.13,
+        "stationNumber": "E07387"
+    },
+    {
+        "transactionId": 20272680,
+        "amount": 614.08,
+        "stationNumber": "E08057"
+    },
+    {
+        "transactionId": 33949450,
+        "amount": 260.11,
+        "stationNumber": "E07214"
+    },
+    {
+        "transactionId": 170721940,
+        "amount": 100.0,
+        "stationNumber": "E11230"
+    },
+    {
+        "transactionId": 295749880,
+        "amount": 200.0,
+        "stationNumber": "E04045"
+    },
+    {
+        "transactionId": 225413430,
+        "amount": 200.0,
+        "stationNumber": "E12169"
+    },
+    {
+        "transactionId": 12822140,
+        "amount": 150.0,
+        "stationNumber": "E12994"
+    },
+    {
+        "transactionId": 471201900,
+        "amount": 300.0,
+        "stationNumber": "E11171"
+    },
+    {
+        "transactionId": 37210380,
+        "amount": 100.0,
+        "stationNumber": "E13275"
+    },
+    {
+        "transactionId": 861072720,
+        "amount": 1050.02,
+        "stationNumber": "E09488"
+    },
+    {
+        "transactionId": 343516950,
+        "amount": 200.0,
+        "stationNumber": "E11880"
+    },
+    {
+        "transactionId": 220351000,
+        "amount": 500.15,
+        "stationNumber": "E04887"
+    },
+    {
+        "transactionId": 257858920,
+        "amount": 500.0,
+        "stationNumber": "E09279"
+    },
+    {
+        "transactionId": 32693680,
+        "amount": 200.0,
+        "stationNumber": "E02253"
+    },
+    {
+        "transactionId": 261650110,
+        "amount": 1369.02,
+        "stationNumber": "E50016"
+    },
+    {
+        "transactionId": 168815210,
+        "amount": 300.0,
+        "stationNumber": "E50013"
+    },
+    {
+        "transactionId": 21821530,
+        "amount": 698.26,
+        "stationNumber": "E10545"
+    },
+    {
+        "transactionId": 20237850,
+        "amount": 300.0,
+        "stationNumber": "E04528"
+    },
+    {
+        "transactionId": 295749890,
+        "amount": 769.0,
+        "stationNumber": "E04045"
+    },
+    {
+        "transactionId": 1241280510,
+        "amount": 200.0,
+        "stationNumber": "E08466"
+    },
+    {
+        "transactionId": 861072730,
+        "amount": 200.0,
+        "stationNumber": "E09488"
+    },
+    {
+        "transactionId": 206037150,
+        "amount": 100.0,
+        "stationNumber": "E10114"
+    },
+    {
+        "transactionId": 294454600,
+        "amount": 400.0,
+        "stationNumber": "E04301"
+    },
+    {
+        "transactionId": 296420540,
+        "amount": 200.0,
+        "stationNumber": "E06089"
+    },
+    {
+        "transactionId": 13369710,
+        "amount": 300.0,
+        "stationNumber": "E09589"
+    },
+    {
+        "transactionId": 223137520,
+        "amount": 150.18,
+        "stationNumber": "E10044"
+    },
+    {
+        "transactionId": 295749900,
+        "amount": 23.99,
+        "stationNumber": "E04045"
+    },
+    {
+        "transactionId": 925362080,
+        "amount": 120.0,
+        "stationNumber": "E09728"
+    },
+    {
+        "transactionId": 319764620,
+        "amount": 230.0,
+        "stationNumber": "E05204"
+    },
+    {
+        "transactionId": 24742860,
+        "amount": 400.0,
+        "stationNumber": "E04164"
+    },
+    {
+        "transactionId": 168815220,
+        "amount": 287.88,
+        "stationNumber": "E50013"
+    },
+    {
+        "transactionId": 60455880,
+        "amount": 100.0,
+        "stationNumber": "E08082"
+    },
+    {
+        "transactionId": 40759910,
+        "amount": 25.0,
+        "stationNumber": "E01684"
+    },
+    {
+        "transactionId": 85498420,
+        "amount": 1180.21,
+        "stationNumber": "E08307"
+    },
+    {
+        "transactionId": 458453250,
+        "amount": 300.0,
+        "stationNumber": "E10985"
+    },
+    {
+        "transactionId": 20237860,
+        "amount": 30.0,
+        "stationNumber": "E04528"
+    },
+    {
+        "transactionId": 102636910,
+        "amount": 250.0,
+        "stationNumber": "E04193"
+    },
+    {
+        "transactionId": 79819800,
+        "amount": 580.09,
+        "stationNumber": "E07791"
+    },
+    {
+        "transactionId": 388503290,
+        "amount": 459.8,
+        "stationNumber": "E09931"
+    },
+    {
+        "transactionId": 37301450,
+        "amount": 300.0,
+        "stationNumber": "E12850"
+    },
+    {
+        "transactionId": 289224560,
+        "amount": 269.9,
+        "stationNumber": "E13043"
+    },
+    {
+        "transactionId": 234598010,
+        "amount": 40.0,
+        "stationNumber": "E01655"
+    },
+    {
+        "transactionId": 95268710,
+        "amount": 500.0,
+        "stationNumber": "E03648"
+    },
+    {
+        "transactionId": 7696900,
+        "amount": 595.31,
+        "stationNumber": "E01354"
+    },
+    {
+        "transactionId": 67407730,
+        "amount": 200.0,
+        "stationNumber": "E09984"
+    },
+    {
+        "transactionId": 289467450,
+        "amount": 200.0,
+        "stationNumber": "E05264"
+    },
+    {
+        "transactionId": 644343560,
+        "amount": 200.0,
+        "stationNumber": "E10915"
+    },
+    {
+        "transactionId": 17406950,
+        "amount": 479.8,
+        "stationNumber": "E06521"
+    },
+    {
+        "transactionId": 73148380,
+        "amount": 200.0,
+        "stationNumber": "E08697"
+    },
+    {
+        "transactionId": 205205440,
+        "amount": 251.9,
+        "stationNumber": "E11897"
+    },
+    {
+        "transactionId": 376309860,
+        "amount": 200.0,
+        "stationNumber": "E11224"
+    },
+    {
+        "transactionId": 460881040,
+        "amount": 200.0,
+        "stationNumber": "E12386"
+    },
+    {
+        "transactionId": 220351010,
+        "amount": 499.8,
+        "stationNumber": "E04887"
+    },
+    {
+        "transactionId": 220447740,
+        "amount": 150.0,
+        "stationNumber": "E07387"
+    },
+    {
+        "transactionId": 186815760,
+        "amount": 250.0,
+        "stationNumber": "E08929"
+    },
+    {
+        "transactionId": 187505240,
+        "amount": 400.0,
+        "stationNumber": "E10173"
+    },
+    {
+        "transactionId": 10328470,
+        "amount": 1.3,
+        "stationNumber": "E11133"
+    },
+    {
+        "transactionId": 35903510,
+        "amount": 1040.42,
+        "stationNumber": "E06593"
+    },
+    {
+        "transactionId": 30371160,
+        "amount": 459.36,
+        "stationNumber": "E10700"
+    },
+    {
+        "transactionId": 121238500,
+        "amount": 100.0,
+        "stationNumber": "E50022"
+    },
+    {
+        "transactionId": 58810,
+        "amount": 359.85,
+        "stationNumber": "E11975"
+    },
+    {
+        "transactionId": 564254760,
+        "amount": 1500.0,
+        "stationNumber": "E10879"
+    },
+    {
+        "transactionId": 861072740,
+        "amount": 500.0,
+        "stationNumber": "E09488"
+    },
+    {
+        "transactionId": 12268400,
+        "amount": 400.0,
+        "stationNumber": "E04938"
+    },
+    {
+        "transactionId": 319764630,
+        "amount": 500.0,
+        "stationNumber": "E05204"
+    },
+    {
+        "transactionId": 22399360,
+        "amount": 100.0,
+        "stationNumber": "E02566"
+    },
+    {
+        "transactionId": 471201910,
+        "amount": 150.0,
+        "stationNumber": "E11171"
+    },
+    {
+        "transactionId": 19736000,
+        "amount": 500.0,
+        "stationNumber": "E02780"
+    },
+    {
+        "transactionId": 11900290,
+        "amount": 500.0,
+        "stationNumber": "E10343"
+    },
+    {
+        "transactionId": 34331230,
+        "amount": 400.0,
+        "stationNumber": "E04005"
+    },
+    {
+        "transactionId": 526940170,
+        "amount": 100.0,
+        "stationNumber": "E08598"
+    },
+    {
+        "transactionId": 295749910,
+        "amount": 672.58,
+        "stationNumber": "E04045"
+    },
+    {
+        "transactionId": 873114920,
+        "amount": 500.0,
+        "stationNumber": "E09436"
+    },
+    {
+        "transactionId": 165875210,
+        "amount": 190.0,
+        "stationNumber": "E07446"
+    },
+    {
+        "transactionId": 46600,
+        "amount": 300.0,
+        "stationNumber": "E08785"
+    },
+    {
+        "transactionId": 10328480,
+        "amount": 1.62,
+        "stationNumber": "E11133"
+    },
+    {
+        "transactionId": 15154710,
+        "amount": 669.19,
+        "stationNumber": "E13106"
+    },
+    {
+        "transactionId": 248763520,
+        "amount": 50.0,
+        "stationNumber": "E08922"
+    },
+    {
+        "transactionId": 284086510,
+        "amount": 465.8,
+        "stationNumber": "E08232"
+    },
+    {
+        "transactionId": 252607130,
+        "amount": 150.0,
+        "stationNumber": "E05881"
+    },
+    {
+        "transactionId": 25691480,
+        "amount": 200.0,
+        "stationNumber": "E04184"
+    },
+    {
+        "transactionId": 852066420,
+        "amount": 215.91,
+        "stationNumber": "E09982"
+    },
+    {
+        "transactionId": 4542720,
+        "amount": 200.0,
+        "stationNumber": "E50037"
+    },
+    {
+        "transactionId": 37301460,
+        "amount": 200.0,
+        "stationNumber": "E12850"
+    },
+    {
+        "transactionId": 35269330,
+        "amount": 400.0,
+        "stationNumber": "E03769"
+    },
+    {
+        "transactionId": 220351020,
+        "amount": 499.8,
+        "stationNumber": "E04887"
+    },
+    {
+        "transactionId": 257858930,
+        "amount": 231.9,
+        "stationNumber": "E09279"
+    },
+    {
+        "transactionId": 427857770,
+        "amount": 1786.55,
+        "stationNumber": "E01356"
+    },
+    {
+        "transactionId": 179630330,
+        "amount": 400.0,
+        "stationNumber": "E06790"
+    },
+    {
+        "transactionId": 22632600,
+        "amount": 1361.83,
+        "stationNumber": "E02173"
+    },
+    {
+        "transactionId": 1241280520,
+        "amount": 265.9,
+        "stationNumber": "E08466"
+    },
+    {
+        "transactionId": 20237870,
+        "amount": 500.0,
+        "stationNumber": "E04528"
+    },
+    {
+        "transactionId": 41071430,
+        "amount": 1285.1,
+        "stationNumber": "E12324"
+    },
+    {
+        "transactionId": 14888430,
+        "amount": 200.0,
+        "stationNumber": "E00615"
+    },
+    {
+        "transactionId": 137532180,
+        "amount": 300.0,
+        "stationNumber": "E07072"
+    },
+    {
+        "transactionId": 398183640,
+        "amount": 100.0,
+        "stationNumber": "E04571"
+    },
+    {
+        "transactionId": 824984990,
+        "amount": 310.0,
+        "stationNumber": "E09142"
+    },
+    {
+        "transactionId": 295749920,
+        "amount": 400.0,
+        "stationNumber": "E04045"
+    },
+    {
+        "transactionId": 289467460,
+        "amount": 609.78,
+        "stationNumber": "E05264"
+    },
+    {
+        "transactionId": 21821540,
+        "amount": 600.0,
+        "stationNumber": "E10545"
+    },
+    {
+        "transactionId": 63390630,
+        "amount": 500.0,
+        "stationNumber": "E04341"
+    },
+    {
+        "transactionId": 373910590,
+        "amount": 500.0,
+        "stationNumber": "E12041"
+    },
+    {
+        "transactionId": 10328490,
+        "amount": 0.8,
+        "stationNumber": "E11133"
+    },
+    {
+        "transactionId": 9022390,
+        "amount": 403.77,
+        "stationNumber": "E04444"
+    },
+    {
+        "transactionId": 673899250,
+        "amount": 200.0,
+        "stationNumber": "E11243"
+    },
+    {
+        "transactionId": 255521460,
+        "amount": 200.0,
+        "stationNumber": "E03568"
+    },
+    {
+        "transactionId": 169456560,
+        "amount": 239.9,
+        "stationNumber": "E11457"
+    },
+    {
+        "transactionId": 31260420,
+        "amount": 200.0,
+        "stationNumber": "E07318"
+    },
+    {
+        "transactionId": 22659190,
+        "amount": 119.95,
+        "stationNumber": "E10028"
+    },
+    {
+        "transactionId": 116748500,
+        "amount": 1111.6,
+        "stationNumber": "E09237"
+    },
+    {
+        "transactionId": 261650120,
+        "amount": 350.0,
+        "stationNumber": "E50016"
+    },
+    {
+        "transactionId": 295749930,
+        "amount": 480.0,
+        "stationNumber": "E04045"
+    },
+    {
+        "transactionId": 10328500,
+        "amount": 1.08,
+        "stationNumber": "E11133"
+    },
+    {
+        "transactionId": 257858940,
+        "amount": 600.0,
+        "stationNumber": "E09279"
+    },
+    {
+        "transactionId": 822440,
+        "amount": 739.66,
+        "stationNumber": "E15061"
+    },
+    {
+        "transactionId": 69780,
+        "amount": 200.0,
+        "stationNumber": "E10221"
+    },
+    {
+        "transactionId": 36981460,
+        "amount": 100.0,
+        "stationNumber": "E12156"
+    },
+    {
+        "transactionId": 48022550,
+        "amount": 100.0,
+        "stationNumber": "E12582"
+    },
+    {
+        "transactionId": 228457690,
+        "amount": 100.0,
+        "stationNumber": "E05008"
+    },
+    {
+        "transactionId": 41071440,
+        "amount": 480.0,
+        "stationNumber": "E12324"
+    },
+    {
+        "transactionId": 11289130,
+        "amount": 50.0,
+        "stationNumber": "E09141"
+    },
+    {
+        "transactionId": 45349150,
+        "amount": 500.0,
+        "stationNumber": "E06615"
+    },
+    {
+        "transactionId": 318939620,
+        "amount": 700.0,
+        "stationNumber": "E10831"
+    },
+    {
+        "transactionId": 19900690,
+        "amount": 600.0,
+        "stationNumber": "E50003"
+    },
+    {
+        "transactionId": 295749940,
+        "amount": 100.0,
+        "stationNumber": "E04045"
+    },
+    {
+        "transactionId": 40176790,
+        "amount": 200.0,
+        "stationNumber": "E01241"
+    },
+    {
+        "transactionId": 15615430,
+        "amount": 300.0,
+        "stationNumber": "E02184"
+    },
+    {
+        "transactionId": 24295530,
+        "amount": 120.0,
+        "stationNumber": "E02023"
+    },
+    {
+        "transactionId": 18084250,
+        "amount": 374.85,
+        "stationNumber": "E08879"
+    },
+    {
+        "transactionId": 277611670,
+        "amount": 972.65,
+        "stationNumber": "E13012"
+    },
+    {
+        "transactionId": 311469970,
+        "amount": 100.0,
+        "stationNumber": "E08365"
+    },
+    {
+        "transactionId": 205205450,
+        "amount": 42.87,
+        "stationNumber": "E11897"
+    },
+    {
+        "transactionId": 12877150,
+        "amount": 1150.36,
+        "stationNumber": "E05319"
+    },
+    {
+        "transactionId": 51483600,
+        "amount": 479.8,
+        "stationNumber": "E12232"
+    },
+    {
+        "transactionId": 690678300,
+        "amount": 466.41,
+        "stationNumber": "E08141"
+    },
+    {
+        "transactionId": 35269340,
+        "amount": 1270.17,
+        "stationNumber": "E03769"
+    },
+    {
+        "transactionId": 373910600,
+        "amount": 100.0,
+        "stationNumber": "E12041"
+    },
+    {
+        "transactionId": 37301470,
+        "amount": 200.0,
+        "stationNumber": "E12850"
+    },
+    {
+        "transactionId": 21821550,
+        "amount": 300.0,
+        "stationNumber": "E10545"
+    },
+    {
+        "transactionId": 41174690,
+        "amount": 200.0,
+        "stationNumber": "E05409"
+    },
+    {
+        "transactionId": 22511510,
+        "amount": 800.0,
+        "stationNumber": "E04428"
+    },
+    {
+        "transactionId": 32693690,
+        "amount": 250.0,
+        "stationNumber": "E02253"
+    },
+    {
+        "transactionId": 427857780,
+        "amount": 500.0,
+        "stationNumber": "E01356"
+    },
+    {
+        "transactionId": 515581380,
+        "amount": 20.0,
+        "stationNumber": "E10542"
+    },
+    {
+        "transactionId": 102636920,
+        "amount": 200.0,
+        "stationNumber": "E04193"
+    },
+    {
+        "transactionId": 17406960,
+        "amount": 200.0,
+        "stationNumber": "E06521"
+    },
+    {
+        "transactionId": 57754760,
+        "amount": 150.0,
+        "stationNumber": "E06747"
+    },
+    {
+        "transactionId": 295749950,
+        "amount": 150.0,
+        "stationNumber": "E04045"
+    },
+    {
+        "transactionId": 22399370,
+        "amount": 250.0,
+        "stationNumber": "E02566"
+    },
+    {
+        "transactionId": 41413960,
+        "amount": 50.0,
+        "stationNumber": "E05969"
+    },
+    {
+        "transactionId": 22632610,
+        "amount": 500.0,
+        "stationNumber": "E02173"
+    },
+    {
+        "transactionId": 92347600,
+        "amount": 1111.6,
+        "stationNumber": "E09986"
+    },
+    {
+        "transactionId": 673899260,
+        "amount": 129.9,
+        "stationNumber": "E11243"
+    },
+    {
+        "transactionId": 73148390,
+        "amount": 300.0,
+        "stationNumber": "E08697"
+    },
+    {
+        "transactionId": 25691490,
+        "amount": 200.0,
+        "stationNumber": "E04184"
+    },
+    {
+        "transactionId": 37210400,
+        "amount": 100.0,
+        "stationNumber": "E13275"
+    },
+    {
+        "transactionId": 34260,
+        "amount": 250.0,
+        "stationNumber": "E02870"
+    },
+    {
+        "transactionId": 223137530,
+        "amount": 504.63,
+        "stationNumber": "E10044"
+    },
+    {
+        "transactionId": 261650130,
+        "amount": 400.0,
+        "stationNumber": "E50016"
+    },
+    {
+        "transactionId": 35903520,
+        "amount": 450.0,
+        "stationNumber": "E06593"
+    },
+    {
+        "transactionId": 388503300,
+        "amount": 300.0,
+        "stationNumber": "E09931"
+    },
+    {
+        "transactionId": 861072750,
+        "amount": 200.0,
+        "stationNumber": "E09488"
+    },
+    {
+        "transactionId": 37422520,
+        "amount": 100.0,
+        "stationNumber": "E07464"
+    },
+    {
+        "transactionId": 102636930,
+        "amount": 90.06,
+        "stationNumber": "E04193"
+    },
+    {
+        "transactionId": 471201920,
+        "amount": 975.31,
+        "stationNumber": "E11171"
+    },
+    {
+        "transactionId": 133196690,
+        "amount": 300.0,
+        "stationNumber": "E12778"
+    },
+    {
+        "transactionId": 261650140,
+        "amount": 200.0,
+        "stationNumber": "E50016"
+    },
+    {
+        "transactionId": 162257300,
+        "amount": 500.12,
+        "stationNumber": "E07887"
+    },
+    {
+        "transactionId": 34331240,
+        "amount": 120.95,
+        "stationNumber": "E04005"
+    },
+    {
+        "transactionId": 62498980,
+        "amount": 871.1,
+        "stationNumber": "E11528"
+    },
+    {
+        "transactionId": 873114930,
+        "amount": 300.0,
+        "stationNumber": "E09436"
+    },
+    {
+        "transactionId": 25192130,
+        "amount": 1561.06,
+        "stationNumber": "E11282"
+    },
+    {
+        "transactionId": 248763540,
+        "amount": 400.0,
+        "stationNumber": "E08922"
+    },
+    {
+        "transactionId": 7574300,
+        "amount": 50.0,
+        "stationNumber": "E09215"
+    },
+    {
+        "transactionId": 676145650,
+        "amount": 1700.33,
+        "stationNumber": "E10692"
+    },
+    {
+        "transactionId": 22399380,
+        "amount": 60.0,
+        "stationNumber": "E02566"
+    },
+    {
+        "transactionId": 79819810,
+        "amount": 100.0,
+        "stationNumber": "E07791"
+    },
+    {
+        "transactionId": 168815230,
+        "amount": 239.9,
+        "stationNumber": "E50013"
+    },
+    {
+        "transactionId": 371000680,
+        "amount": 100.0,
+        "stationNumber": "E10363"
+    },
+    {
+        "transactionId": 220811320,
+        "amount": 100.0,
+        "stationNumber": "E07346"
+    },
+    {
+        "transactionId": 373910610,
+        "amount": 519.6,
+        "stationNumber": "E12041"
+    },
+    {
+        "transactionId": 33932410,
+        "amount": 202.94,
+        "stationNumber": "E08775"
+    },
+    {
+        "transactionId": 57179770,
+        "amount": 469.8,
+        "stationNumber": "E05276"
+    },
+    {
+        "transactionId": 40759920,
+        "amount": 50.0,
+        "stationNumber": "E01684"
+    },
+    {
+        "transactionId": 60455890,
+        "amount": 537.97,
+        "stationNumber": "E08082"
+    },
+    {
+        "transactionId": 73429300,
+        "amount": 300.0,
+        "stationNumber": "E04089"
+    }
+]

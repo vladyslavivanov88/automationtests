@@ -1,0 +1,19 @@
+{
+    "baseURL": "https://qa.api.spinplatform.digital",
+    "phoneNumber": "+529876543200",
+    "deviceId": "fee4c07504a28567",
+    "otpData": {
+      "otp": "1234",
+      "phoneNumber": "+529876543200",
+      "email": "AnyEmail@cool.domain.com",
+      "serviceCode": "Onboarding"
+    },
+    "loginData": {
+      "username": "+529876543200",
+      "password": "Passw0rd!",
+      "deviceId": "fee4c07504a28567",
+      "attemptReference": "",
+      "userOS": "",
+      "userToken": ""
+    }
+  }

@@ -1,0 +1,68 @@
+{
+  "checkoutData":{
+     "purchaseSummary":{
+        "icon":"https://images.prismic.io/spinpremia-spin-premia-dev-spin-premia-qa/ZoVPXR5LeNNTwwZh_cinemexX3.png?auto=format,compress",
+        "title":"Cinemex sala tradicional",
+        "caption":"2 boletos personal",
+        "summary":[
+           {
+              "description":"Tipo",
+              "value":"Sala tradicional",
+              "quantity":2,
+              "unitPrice":45,
+              "sku":"0011010100",
+              "eanCode":"234567"
+           }
+        ]
+     },
+     "paymentSummary":{
+        "title":"Todo sobre tu pago",
+        "summary":[
+           {
+              "description":"Subtotal",
+              "value":90,
+              "chargeType":"ProductsAndServices"
+           }
+        ],
+        "total":90
+     },
+     "transversalInformation":{
+        "application":"SpinPremia",
+        "company":"Oxxo",
+        "service":"OxxoGas",
+        "references":"sdshuekol-sds-dsdsds-1"
+     },
+     "PaymentMethod":"CardNotPresent",
+     "receiptOfPayment":{
+        "captionReceipt":"Tu pago se realizó con éxito",
+        "summaryTypeDisplay":"PurchaseSummary",
+        "title":"Detalles de pago",
+        "paymentMethodTitle":"Método de pago",
+        "totalTitle":"Total pagado",
+        "enableSBO":true
+     },
+     "payOrderType":"Services",
+     "spinPremiaRedeemRequest":{
+        "source":{
+           "posId":"1",
+           "cashierId":"OXXOGASDIGITAL",
+           "storeId":"S67LDIGITAL",
+           "channelId":"SLT1",
+           "partnerId":67
+        },
+        "receipt":[
+           {
+              "price":45,
+              "productId":"0011010100",
+              "quantity":2
+           }
+        ]
+     }
+  },
+  "chargeData":{
+     "cardId":"5c49806c-5d6e-4aa0-a2da-92cae367705a",
+     "email":"test200@externos.digitalfemsa.com",
+     "sessionId":"6d4ff595-85d8-4406-8892-7aac3b43f85e",
+     "IPAddress":"10.122.15.247"
+  }
+}

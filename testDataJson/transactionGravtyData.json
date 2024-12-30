@@ -1,0 +1,30 @@
+{
+    "medium_code": "{{mediumCode}}",
+    "payment_details": [
+        {
+            "payment_method": "Efectivo",
+            "amount": 210000
+        }
+    ],
+    "receipt": [
+        {
+            "price": 2500,
+            "type": "0",
+            "product_id": "1",
+            "quantity": 80,
+            "category": "COMBUSTIBLE",
+            "subcategory": "PREMIUM"
+        }
+    ],
+    "source": {
+        "pos_id": "3",
+        "cashier_id": "OXXOGASFF",
+        "store_id": "TEJ1",
+        "channel_id": "01353",
+        "partner_id": 67
+    },
+    "ticket_id": "{{$randomUUID}}",
+    "metadata": {
+        "web_methods_id": 1845069495
+    }
+}

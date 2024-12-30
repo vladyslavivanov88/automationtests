@@ -1,0 +1,34 @@
+{
+    "type": "PURCHASE",
+    "status": "SUCCESS",
+    "medium_code": "9256661134841",
+    "total_amount": 1550.05,
+    "date": "2025-03-10T15:17:39.282-06:00",
+    "member_id": "OLCOTZS",
+    "ticket_id": "219_18111400_14082024151646_B4293D613DB6",
+    "payment_details": [
+        {
+            "amount": 1550.5,
+            "method": "CARD"
+        }
+    ],
+    "products": [
+        {
+            "type": "0",
+            "price": 28.18,
+            "category": "COMBUSTIBLE",
+            "sub_category": "PREMIUM",
+            "quantity": 53.683,
+            "total_discount": 0,
+            "code": "2"
+        }
+    ],
+    "source": {
+        "partner_id": 67,
+        "partner_name": "OXXO GAS",
+        "code": "POS",
+        "channel": "07695",
+        "location_code": "S7L219",
+        "location_name": "Aaron Saenz MTY"
+    }
+}
